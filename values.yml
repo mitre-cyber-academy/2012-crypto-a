@@ -1,0 +1,6 @@
+name: "All Your Base"
+description: |
+  We found a leak hinting that someone is making a Nintendo 64 port of the popular video game "Zero Wing". Among the leaked information was [this file](http://$static_file_server/ca-2a223af624354249ac69bb8019c5f490/leak) that could not be opened. See what you can figure out.
+  
+  MD5: 40716445f4aaca87bd4e401ca7635bf6
+flag: "MCA-98DA37CC"
